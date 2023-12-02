@@ -10,6 +10,7 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 The following are the modules that are in development. The starter implementations can be found in their respective folders.
 1. Speed Detection of Ground Vehicles in Birdview datasets
+
 _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, followed by speed detection of the corresponding vehicles_
 
 2. Speed Detection of Drone using Optic Flow
