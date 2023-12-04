@@ -8,8 +8,10 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 # System Overview
 
+![Drone_Car_IP_SO1 1H](https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/cdb370eb-bb3c-457e-adc1-40f5bf48aebf)
+
 <div align="center">
-<img src="https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/c3fb59b4-bd99-4711-990a-79eb61e5cde4" >
+<img src="https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/cdb370eb-bb3c-457e-adc1-40f5bf48aebf" >
 </div>
 
 # Modules
