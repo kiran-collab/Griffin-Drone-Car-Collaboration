@@ -14,7 +14,7 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 # Modules
 
-The following are the modules that are in development. The starter implementations can be found in their respective folders.
+The following are the modules that are in development. The module implementations can be found in their respective folders.
 1. Speed Detection of Ground Vehicles in Birdview datasets
 
 _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, followed by speed detection of the corresponding vehicles_
@@ -23,7 +23,10 @@ _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, fo
 
 _Using Lucas-Kanade optical flow approach, we calculate the speed of drone from the video stream_
 
-3. 
+3. Frame partitioning and model offloading
+
+_An offline demonstration of the basic concept of frame partitioning combined with model offloading_
+
 4. 
 
 
