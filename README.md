@@ -21,6 +21,8 @@ The following are the modules that are in development. The module implementation
 
 _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, followed by speed detection of the corresponding vehicles_
 
+![speed detection-gif](https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/d6309ca1-d67e-4f9a-9277-3020c0e3e1f0)
+
 2. Speed Detection of Drone
 
 _Using Lucas-Kanade optical flow approach, we calculate the speed of drone from the video stream_
