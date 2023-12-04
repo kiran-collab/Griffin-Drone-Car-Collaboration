@@ -27,6 +27,8 @@ _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, fo
 
 _Using Lucas-Kanade optical flow approach, we calculate the speed of drone from the video stream_
 
+![birdview_1_1](https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/bcfaadd4-8b62-4e15-b247-051884be94e9)
+
 3. Frame partitioning and model offloading
 
 _An offline demonstration of the basic concept of frame partitioning combined with model offloading_
