@@ -29,6 +29,8 @@ _Using Lucas-Kanade optical flow approach, we calculate the speed of drone from 
 
 _An offline demonstration of the basic concept of frame partitioning combined with model offloading_
 
-4. 
+4. Energy consumption estimation for JetsonNano device
+
+_We take inspiration from [[Jeston Power]](https://github.com/opendr-eu/jetson_power) for measuring the energy consumption of JetsonNanoTx2 that is mounted on-top of drone
 
 
