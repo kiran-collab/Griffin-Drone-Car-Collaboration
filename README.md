@@ -39,5 +39,5 @@ _We take inspiration from [[Jeston Power]](https://github.com/opendr-eu/jetson_p
 
 5. Real time commication channel between edge devices and data transfer
 
-_We take part of implemetation from [[Sky-Socket]](https://github.com/JaySchall/Drone-Car-Collaboration) for demonstration of a simple communication channel between JetsonNano and a computer device, followed by partitioning and model offloading(as provided in point 4 above). We plan to implement a robust TCP channel in the near future._ 
+_We take part of implemetation from [[Sky-Socket]](https://github.com/JaySchall/Drone-Car-Collaboration) for demonstration of a simple communication channel between JetsonNano and a computer device, followed by partitioning and model offloading (as provided in point 4 above). We plan to implement a robust TCP channel in the near future._ 
 
