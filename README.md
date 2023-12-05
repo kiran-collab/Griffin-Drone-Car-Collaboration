@@ -1,6 +1,6 @@
 # Griffin: Drone-Car-Collaboration
 
-This is the official implementation for our paper titled "Griffin: Real-time Road Event Detection by Collaborative UAV and Ground Vehicle" (in-progress)
+This is the official implementation for our paper titled "_Griffin: Real-time Road Event Detection by Collaborative UAV and Ground Vehicle_" (in-progress)
 
 [[Paper]](https://drive.google.com/file/d/1uCIxh5hbrb4kFi26-uINK4sL9AW1DUMA/view?usp=drive_link)
 
