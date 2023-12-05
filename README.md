@@ -48,3 +48,7 @@ _We take part of implemetation from [[Sky-Socket]](https://github.com/JaySchall/
 6. Training Yolov5 with VisDrone dataset
 
 _We finetune existing Yolov5 checkpoints with data from VisDrone dataset [[VisDrone]](https://github.com/VisDrone/VisDrone-Dataset). We perform this to improve Ground Vehicle(specifically Car) detections on roads in birdview real scenes. The code and checkpoints would be released shortly._ 
+
+#Ongoing & Future Work
+
+_We plan to implement a real-time communication channel between the Drone and Car. We wish to evaluate drone's resources and network conditions in the experiment setup, following which we plan to simulate and test our proposed Griffin system to evaluate the accuracy and response-time for event detection.  
