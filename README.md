@@ -41,3 +41,6 @@ _We use [[Jeston Power]](https://github.com/opendr-eu/jetson_power) for measurin
 
 _We take part of implemetation from [[Sky-Socket]](https://github.com/JaySchall/Drone-Car-Collaboration) for demonstration of a simple communication channel between JetsonNano and a computer device, followed by partitioning and model offloading (as provided in point 4 above). We plan to implement a robust TCP channel in the near future._ 
 
+6. Training Yolov5 with VisDrone dataset
+
+_We finetune existing Yolov5 checkpoints with data from VisDrone dataset [[VisDrone]](https://github.com/VisDrone/VisDrone-Dataset). We perform this to improve Ground Vehicle(specifically Car) detections on roads in birdview real scenes. The code and checkpoints would be released shortly._ 
