@@ -52,4 +52,4 @@ _We finetune existing Yolov5 checkpoints with data from VisDrone dataset [[VisDr
 
 #Ongoing & Future Work
 
-_We plan to implement a real-time communication channel between the Drone and Car. We wish to evaluate drone's resources and network conditions in the experiment setup, following which we plan to simulate and test our proposed Griffin system to evaluate the accuracy and response-time for event detection._  
+_We plan to implement a real-time communication channel between the Drone and Car. We wish to evaluate drone's resources and network conditions in the experiment setup, following which we plan to simulate and test our proposed Griffin system. Our goal is to evaluate the accuracy and response-time for event detection._  
