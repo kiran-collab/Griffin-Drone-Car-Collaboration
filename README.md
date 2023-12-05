@@ -16,7 +16,7 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 # Modules
 
-The following are the modules that are in development. The module implementations can be found in their respective folders.
+The following are the modules that are in development for our proposed system. Their implementations can be found in their respective folders.
 1. Speed Detection of Ground Vehicles in Birdview datasets
 
 _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, followed by speed detection of the corresponding vehicles_
@@ -37,4 +37,7 @@ _An offline demonstration of the basic concept of frame partitioning combined wi
 
 _We take inspiration from [[Jeston Power]](https://github.com/opendr-eu/jetson_power) for measuring the energy consumption of JetsonNanoTx2 that is mounted on-top of drone_
 
+5. Real time commication channel between edge devices and data transfer
+
+_We take part of implemetation from [[Sky-Socket]](https://github.com/JaySchall/Drone-Car-Collaboration) for demonstration of a simple communication channel between JetsonNano and a computer device, followed by partitioning and model offloading(as provided in point 4 above). We plan to implement a robust TCP channel in the near future._ 
 
