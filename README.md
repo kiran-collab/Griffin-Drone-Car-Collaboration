@@ -16,7 +16,7 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 # Dataset
 
-We contribute a dataset (~500 video streams) of birdview trajectories of ground-vehicles on roads taken from wild. Further, we annotate the vehicles with their speeds estimated using CV algorithms. The dataset can be accessed at  [[Griffin-Dataset]] (https://drive.google.com/drive/folders/1OlFtWg9VwWSjqOyTakliqYqBxmtCAIfw?usp=drive_link)
+We contribute a dataset (~500 video streams) of birdview trajectories of ground-vehicles on roads taken from wild. Further, we annotate the vehicles with their speeds estimated using CV algorithms. The dataset can be accessed at  [[Griffin-Dataset]](https://drive.google.com/drive/folders/1OlFtWg9VwWSjqOyTakliqYqBxmtCAIfw?usp=drive_link)
 
 #Implementation Modules
 
