@@ -35,7 +35,7 @@ _An offline demonstration of the basic concept of frame partitioning combined wi
 
 4. Energy consumption estimation for JetsonNano device
 
-_We take inspiration from [[Jeston Power]](https://github.com/opendr-eu/jetson_power) for measuring the energy consumption of JetsonNanoTx2 that is mounted on-top of drone_
+_We use [[Jeston Power]](https://github.com/opendr-eu/jetson_power) for measuring the energy consumption of JetsonNanoTx2 that is mounted on-top of drone_
 
 5. Real time commication channel between edge devices and data transfer
 
