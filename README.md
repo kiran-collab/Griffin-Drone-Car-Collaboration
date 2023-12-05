@@ -14,7 +14,11 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 <img src="https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/cdb370eb-bb3c-457e-adc1-40f5bf48aebf" >
 </div>
 
-# Modules
+# Dataset
+
+We contribute a dataset (~500 video streams) of birdview trajectories of ground-vehicles on roads taken from wild. Further, we annotate the vehicles with their speeds estimated using CV algorithms. The dataset can be accessed at  [[Griffin-Dataset]] (https://drive.google.com/drive/folders/1OlFtWg9VwWSjqOyTakliqYqBxmtCAIfw?usp=drive_link)
+
+#Implementation Modules
 
 The following are the modules that are in development for our proposed system. Their implementations can be found in their respective folders.
 1. Speed Detection of Ground Vehicles in Birdview datasets
