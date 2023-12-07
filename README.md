@@ -32,12 +32,13 @@ _We use Yolo-V8 for tracking Ground Vehicles in Birdview trajectory datasets, fo
 
 ![speed detection-gif](https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/d6309ca1-d67e-4f9a-9277-3020c0e3e1f0)
 
-2. Speed Detection of Drone
+2. Speed Detection & Direction Estimation of Drone
 
 _Using Lucas-Kanade optical flow approach, we calculate the speed of drone from the video stream_
 
 ![birdview_1_1](https://github.com/kiran-collab/Griffin-Drone-Car-Collaboration/assets/75129341/bcfaadd4-8b62-4e15-b247-051884be94e9)
 
+Direction is estimated using the video stream by utilizing the displacement of the pixels in an ROI (selected by user). The camera view-point is initially calibrated when the user selects the reference origin of the frame. 
 3. Frame partitioning and model offloading
 
 _An offline demonstration of the basic concept of frame partitioning combined with model offloading_
