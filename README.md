@@ -10,7 +10,7 @@ Autonomous Vehicles rely heavily on sensing the environment for movement guidanc
 
 # 📹 Dataset
 
-We create and release a dataset (GriffinWild) of ~ 500 videos (x frames) of drone-view road trajectories collected from wild for public use. We classify the data into several categories that can be utilized for drone-view research in the future. It can be accessed at [[GriffinWild]](https://drive.google.com/drive/folders/1EPxw5zrwL9lXsRwkYlNfKKs3hxUfigOk?usp=drive_link)
+We contribute a dataset (GriffinWild) of ~ 500 high-quality videos (x frames) of drone-view road trajectories collected from wild (captured from various sources) for public use. We classify the data into several categories that can be utilized for drone-view research in the future. It can be accessed at [[GriffinWild]](https://drive.google.com/drive/folders/1EPxw5zrwL9lXsRwkYlNfKKs3hxUfigOk?usp=drive_link)
 
 # ⚡ System Overview
 
